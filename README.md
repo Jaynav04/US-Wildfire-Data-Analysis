@@ -1,5 +1,6 @@
 <h1> Analyzing Large-Scale Wildfires in the United States </h1>
-![image](https://github.com/Jaynav04/US-Wildfire-Data-Analysis/assets/130405173/455616dd-6833-4121-b12b-87f2e80be171)
+![image](https://github.com/Jaynav04/US-Wildfire-Data-Analysis/assets/130405173/ee8b0a2d-a37b-45fb-a8c9-d7a6047434a8)
+
 
 <h2> Overview </h2>
 
