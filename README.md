@@ -1,6 +1,4 @@
 <h1> Analyzing Large-Scale Wildfires in the United States </h1>
-![image](https://github.com/Jaynav04/US-Wildfire-Data-Analysis/assets/130405173/fa28b9f6-957d-44d3-a773-6efed3c44896)
-
 
 
 <h2> Overview </h2>
@@ -117,4 +115,7 @@ Click to view [presentation](https://docs.google.com/presentation/d/150Lm1gTc_hO
 ![Bar Graph](https://github.com/emilymees/ProjectThree/blob/main/images/yearly_fire_total.png)
 
 ![image](https://github.com/Jaynav04/US-Wildfire-Data-Analysis/assets/130405173/ad1d6ee5-e4d1-4eb4-b36d-e6a54236d6b1)
+
+![image](https://github.com/Jaynav04/US-Wildfire-Data-Analysis/assets/130405173/eabb9b63-e640-4ce1-bb08-7827a3703e6e)
+
 
