@@ -115,3 +115,6 @@ Click to view [presentation](https://docs.google.com/presentation/d/150Lm1gTc_hO
 <div align="center"> Total Wildfires per Year </div>
 
 ![Bar Graph](https://github.com/emilymees/ProjectThree/blob/main/images/yearly_fire_total.png)
+
+![image](https://github.com/Jaynav04/US-Wildfire-Data-Analysis/assets/130405173/ad1d6ee5-e4d1-4eb4-b36d-e6a54236d6b1)
+
