@@ -112,7 +112,7 @@ Click to view [presentation](https://docs.google.com/presentation/d/150Lm1gTc_hO
 
 ![Pie Chart](https://github.com/emilymees/ProjectThree/blob/main/images/non-natural_causes.png)
 
-<div align="center"> Total Wildfires per Year </div>
+<div align="center"> Amount of Wildfires Throughout the Years </div>
 
 ![Bar Graph](https://github.com/emilymees/ProjectThree/blob/main/images/yearly_fire_total.png)
 
